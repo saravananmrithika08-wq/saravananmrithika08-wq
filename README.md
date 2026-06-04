@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mrithika 👋
 
-<!--
-**saravananmrithika08-wq/saravananmrithika08-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Biomedical Engineering Student | Easwari Engineering College, Anna University  
+📍 Chennai, India  
+🔬 Interested in Healthcare AI, Biosignal Processing, and Medical Imaging
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python, MATLAB
+- **AI/ML:** TensorFlow, scikit-learn, NumPy, Pandas
+- **Domains:** ECG/EEG Signal Processing, Medical Image Analysis, VLSI Design
+- **Tools:** GitHub, PyCharm, LabVIEW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 🩺 RetinaGuard AI — Diabetic retinopathy detection using EfficientNet-B3 + Grad-CAM
+- 📈 PhysioStress Analyzer — ECG/PPG-based stress monitoring with ML classification
+
+## 📚 Currently Learning
+Building ML pipelines for biosignal classification | Improving Python for data science
+
+## 📫 Connect
+[LinkedIn](#) — www.linkedin.com/in/mrithika-saravanan-125786307
