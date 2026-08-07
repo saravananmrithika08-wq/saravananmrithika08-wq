@@ -1,21 +1,24 @@
-# Hi, I'm Mrithika 👋
+### Hi, I'm Mrithika 👋
 
 🎓 Biomedical Engineering Student | Easwari Engineering College, Anna University  
 📍 Chennai, India  
 🔬 Interested in Healthcare AI, Biosignal Processing, and Medical Imaging
 
-## 🛠️ Skills
-- **Languages:** Python, MATLAB
-- **AI/ML:** TensorFlow, scikit-learn, NumPy, Pandas
-- **Domains:** ECG/EEG Signal Processing, Medical Image Analysis, VLSI Design
-- **Tools:** GitHub, PyCharm, LabVIEW
+### 🛠️ Skills
+**Languages:** Python  
+**AI/ML:** TensorFlow, scikit-learn, NumPy, Pandas  
+**Domains:** ECG/EEG Signal Processing, Medical Image Analysis, Clinical Data Analysis  
+**Tools:** GitHub, PyCharm
 
-## 🚀 Featured Projects
-- 🩺 RetinaGuard AI — Diabetic retinopathy detection using EfficientNet-B3 + Grad-CAM
-- 📈 PhysioStress Analyzer — ECG/PPG-based stress monitoring with ML classification
+### 🚀 Featured Projects
+🩺 **MediScan AI** — [one-line description]  
+🩺 **RetinaGuard AI** — Diabetic retinopathy detection using EfficientNet-B3 + Grad-CAM  
+❤️ **ECG Arrhythmia Detector** — CNN-LSTM based arrhythmia classification  
+🫁 **Lung Segmentation** — U-Net based lung X-ray segmentation  
+📊 **Clinical Data Value Analyzer** — [one-line description, in progress]
 
-## 📚 Currently Learning
-Building ML pipelines for biosignal classification | Improving Python for data science
+### 📚 Currently Learning
+Building the Clinical Data Value Analyzer | Strengthening Python for biomedical data science
 
-## 📫 Connect
-[LinkedIn](#) — www.linkedin.com/in/mrithika-saravanan-125786307
+### 📫 Connect
+LinkedIn — www.linkedin.com/in/mrithika-saravanan-125786307
